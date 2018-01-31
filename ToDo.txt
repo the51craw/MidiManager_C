@@ -1,0 +1,8 @@
+* När man minskar trummornas channel till 0 (--) så sparas detta inte i EEPROM, eller så läses det inte vid initiering.
+
+* Öka pausen när man växlar mellan Direkt och UR-44.
+
+* Skicka all notes off i stället för senast note off när man byter kanal eller transponering.
+
+* Kolla om DX7 eller WX7 sänder något som jag inte hanterar eller filtrerar bort.
+

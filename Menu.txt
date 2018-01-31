@@ -1,0 +1,28 @@
+# DX7/Juno-106/AUX 1/AUX 2/Drumpads
+* Channel/Transpose+/Transpose-
+
+Press # for cycling inputs.
+Press * for toggling Channel/Tranpose.
+Press digits to enter value, changes immediately.
+Values are shown at screen right.
+
+Examples:
+
+
+JUNO-106      0_
+Channel      16
+
+DX7         -12
+Channel      16_
+
+When a value is entered outside limits, the limit value is saved.
+
+Limits:
+Transpose +/- 24 semitones.
+Channel 1 - 16.
+
+Buttons: 
+
+Synt +/-
+Channel +/-
+Transpose +/-
